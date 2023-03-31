@@ -1,0 +1,7 @@
+npx react-native start --reset-cache
+
+<Stack.Navigator initialRouteName='HomeScreen' screenOptions={{ headerShown: false }}>
+      <Stack.Screen name='HomeScreen' component={HomeScreen} />
+    </Stack.Navigator>
+
+npm start --reset-cache

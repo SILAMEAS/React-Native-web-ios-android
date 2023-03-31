@@ -1,0 +1,96 @@
+{
+  "changeLanguage": "Change Language",
+  "sampleUI": "Sample UI",
+  "language": "Language",
+  "chooseYourPreferLanguage": "Choose Your Prefer Language.",
+  "hello": "Hello",
+  "search": "Search here",
+  "whatDoYouWantToLearnToday": "What do you want to learn today?",
+  "getStarted": "Get Started",
+  "lastSeenCourses": "Last Seen Courses",
+  "browseFile": "Browse File",
+  "paginationScreen": "Pagination Screen",
+  "home": "Home",
+  "dialogScreen": "Dialog Screen",
+  "slideScreen": "Slide Screen",
+  "testComponents": "Test Components",
+  "testAPIServerRequestScreen": "Test API Server Request Screen",
+  "sampleUILandingScreen": "Sample UI Landing Screen",
+  "forgotPassword": "Forgot Password",
+  "blankSession": "Blank Session",
+  "sessionUnderContruction": "Session Under Construction",
+  "idleSession": "Idle Session",
+  "activeSession": "Active Session",
+  "sessionCorrectlyEnded": "Session Correctly Ended",
+  "deletedSession": "Deleted Session",
+  "abandonedSession": "Abandoned Session",
+  "fileName": "File Name",
+  "title": "Title",
+  "abstract": "Abstract",
+  "url": "URL",
+  "errorGettingContentFile": "Error with getting content file. Please try again later",
+  "fileViewer": "File Viewer",
+  "noDocument": "No Document",
+  "yes": "Yes",
+  "no": "No",
+  "reasonCannotBeEmpty": "Reason cannot be empty!",
+  "reason": "reason",
+  "Reason": "Reason",
+  "deleteSession": "Delete Session",
+  "tryAgain": "Try again",
+  "someErrorOccurred": "Some error occurred",
+  "expireIn": "Expire In",
+  "status": "Status",
+  "docusign": "CERTINGA",
+  "account": "Account",
+  "setting": "Setting",
+  "templates": "Templates",
+  "backHome": "Back Home Screen",
+  "preview": "Page Preview",
+  "pdfEditor": "PDF Editor",
+  "table": "Table",
+  "title": {
+    "Welcome to React": "Welcome to React and react-i18next",
+    "Welcome to React1": "Welcome to React and react-i18next",
+    "signature":"Signature",
+    "welcome to signature": "Welcome to Signature",
+    "log into access": "Log in to access the platform",
+    "required": "Required",
+    "condition of us": "accept the General Conditions of Use",
+    "validate": "Validate"
+  },
+  "status": {
+    "success": "Success",
+    "required": "Required",
+    "invalid": "Invalid"
+  },
+  "form": {
+    "email": "email",
+    "password": "password",
+    "login": "login",
+    "name": "name",
+    "siret": "siret",
+    "contact name": "contact name"
+
+  },
+  "message": {
+    "req-pass": "Password is required",
+    "req-email": "Email is required",
+    "req-field": "Field is can't empty"
+  },
+  "folder": {
+    "new-folder": "Nouveau dossier"
+  },
+  "text": {
+    "personal password": "Définissez votre mot de passe personnel ",
+    "1 capital letter ": "1 capital letter",
+    "1 special character": "1 special character",
+    "12 characters": "12 characters",
+    "1 lower case letter": "1 lower case letter",
+    "1 number": "1 number"
+  },
+  "button": {
+    "login": "Login",
+    "create": "Create"
+  }
+}
